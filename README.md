@@ -1,4 +1,4 @@
-# movie_rating_prediction
+# movie_recommendation_using_collaborative_filtering
 
 This project is based on the movie recommendation system. There are four different datasets. The training dataset with columns userId, movieId, rating, and timestamp The given movie dataset of ratings given by users for a particular movie on a 0-5 star scale. The test dataset with columns userId, movieId, and timestamp.The movies dataset with columns movieId, title, and genres. The links dataset with columns movieId, imdbId, and tmdbId.The main purpose of this project is to build a user-based collaborative system and predict movie ratings. Apart from that a content-based movie recommendation system and a recommendation for new users have been done in this project.
 
